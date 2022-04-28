@@ -10,12 +10,27 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@material-ui/core": "^4.12.4",
+    "@mui/material": "^5.6.3",
+    "@mui/styled-engine-sc": "^5.6.1",
+    "@react-navigation/bottom-tabs": "^6.3.1",
+    "@react-navigation/material-bottom-tabs": "^6.2.1",
+    "adb": "^0.2.0",
     "expo": "~44.0.0",
     "expo-status-bar": "~1.2.0",
+    "moment": "^2.29.3",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-gesture-handler": "~2.1.0",
+    "react-native-paper": "^4.12.0",
+    "react-native-responsive-linechart": "^5.7.1",
+    "react-native-svg-charts": "^5.4.0",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
